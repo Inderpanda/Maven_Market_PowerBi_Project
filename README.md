@@ -3,7 +3,7 @@
 I am sharing my PowerBI Desktop project, Maven Market Report, which provides insights into the overall performance of Maven Market which is a multi-national grocery chain with locations in Canada, Mexico, and the United States. This is a part of the Microsoft PowerBI Desktop for Business Intelligence (2023) course by Maven Analytics on Udemy. 
 
 
-Steps Involved:-
+STEPS INVOLVED:-
 
 # 1️⃣ Connecting & Shaping Data:
 This step involved extracting, transforming, and loading (ETL) project data using Power Query and exploring query editing tools like text, numerical, date & and time tools, grouping & and aggregating tools, etc. during the table transformation stage.
