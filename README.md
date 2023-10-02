@@ -52,6 +52,10 @@ Filters are all one-way (no two-way filters), Filter context flows "downstream" 
 ✅ Choice Bubble Gum - Worst Product in terms of Revenue (154$)
 
 
+# Video On LinkedIn
+https://www.linkedin.com/feed/update/urn:li:activity:7102151755165032449/
+
+
 
 # Data Visualization
 
