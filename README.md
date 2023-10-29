@@ -10,23 +10,22 @@ This step involved extracting, transforming, and loading (ETL) project data usin
 
 
 # 2️⃣ Creating a Relational Data Model:
-Connect Transaction_Data to Customers, Products, and Stores using valid primary/foreign keys. 
-All relationships follow one-to-many cardinality, with primary keys (1) on the lookup side and foreign keys (*) on the data side
-Filters are all one-way (no two-way filters), Filter context flows "downstream" from lookup tables to data tables
+In the MODEL view, meticulously organized tables into a coherent data model by establishing one-to-many relationships with primary and foreign keys, ensuring filter context propagation, and creating a snowflake schema linking Stores to Regions. Additionally, refined the data by formatting date fields, currency values, and categorizing location-related attributes, culminating in an enhanced and structured data model for analysis.
 
 
 # 3️⃣ Adding Calculated Fields with DAX:
 
-- Using Data Analysis Expressions (DAX), created calculated columns & and measures like - 'Total Revenue', 'Total Transactions', 'YTD Revenue', '% Weekend Transactions', '60-day Revenue', 'All Transactions', Profit Target, Revenue Target etc.
+-Utilized various DAX functions for calculated columns and measures, including DATE, SEARCH, SUM, COUNTROWS, DIVIDE, FILTER, TOTALYTD, and more to facilitate data analysis, trend analysis, and financial calculations.
+-  Using Data Analysis Expressions (DAX), created calculated columns & and measures like - 'Total Revenue', 'Total Transactions', 'YTD Revenue', '% Weekend Transactions', '60-day Revenue', 'All Transactions', Profit Target, Revenue Target etc.
 - Explored Math & and stats functions, Conditional & logical functions, Text functions, Date & time functions, RELATED functions, CALCULATE, ALL, Iterator (X) functions, and many more.
 
 
 # 4️⃣ Visualizing Data with Reports:
 
+-Designed a comprehensive report featuring visuals like Matrix, KPI Cards, Map, Treemap, Column Chart, and Gauge Chart for data analysis. 
+- Applied formatting, interactivity,Top N filtering, slicers, and bookmarks to enhance user experience and provide insights
 - And then the final step was about bringing our data to LIFE with reports and dashboards.
-- Used visuals like Cards & KPIs, Table & Matrix, Map, Donut Charts, Trend lines, etc. and tools like Conditional formatting and Top N filtering.
-- Report slicers, bookmarks, buttons, tooltips, and report navigation helped to add interactivity.
-
+-  and tools like Conditional formatting.
 
 # ✳️ Pages included in the Dashboards:
 📄Topline Performance
