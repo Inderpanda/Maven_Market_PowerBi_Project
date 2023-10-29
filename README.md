@@ -15,14 +15,14 @@ In the MODEL view, meticulously organized tables into a coherent data model by e
 
 # 3️⃣ Adding Calculated Fields with DAX:
 
--Utilized various DAX functions for calculated columns and measures, including DATE, SEARCH, SUM, COUNTROWS, DIVIDE, FILTER, TOTALYTD, and more to facilitate data analysis, trend analysis, and financial calculations.
+- Utilized various DAX functions for calculated columns and measures, including DATE, SEARCH, SUM, COUNTROWS, DIVIDE, FILTER, TOTALYTD, and more to facilitate data analysis, trend analysis, and financial calculations.
 -  Using Data Analysis Expressions (DAX), created calculated columns & and measures like - 'Total Revenue', 'Total Transactions', 'YTD Revenue', '% Weekend Transactions', '60-day Revenue', 'All Transactions', Profit Target, Revenue Target etc.
 - Explored Math & and stats functions, Conditional & logical functions, Text functions, Date & time functions, RELATED functions, CALCULATE, ALL, Iterator (X) functions, and many more.
 
 
 # 4️⃣ Visualizing Data with Reports:
 
--Designed a comprehensive report featuring visuals like Matrix, KPI Cards, Map, Treemap, Column Chart, and Gauge Chart for data analysis. 
+- Designed a comprehensive report featuring visuals like Matrix, KPI Cards, Map, Treemap, Column Chart, and Gauge Chart for data analysis. 
 - Applied formatting, interactivity,Top N filtering, slicers, and bookmarks to enhance user experience and provide insights
 - And then the final step was about bringing our data to LIFE with reports and dashboards.
 -  and tools like Conditional formatting.
