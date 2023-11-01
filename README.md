@@ -1,3 +1,6 @@
+# Maven_Market_PowerBi_Project
+
+I am sharing my PowerBI Desktop project, Maven Market Report, which provides insights into the overall performance of Maven Market which is a multi-national grocery chain with locations in Canada, Mexico, and the United States. This is a part of the Microsoft PowerBI Desktop for Business Intelligence (2023) course by Maven Analytics on Udemy. 
 
 
 # Check Video
@@ -5,10 +8,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7102151755165032449/
 
 
 .
-
-
-
-# Data Visualization
 
 
 
@@ -21,9 +20,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7102151755165032449/
 ![Screenshot (414)](https://github.com/Inderpanda/Maven_Market_PowerBi_Project/assets/138003751/e0e72153-c246-4dc8-a1d9-4a64974fe9a2)
 
 
-# Maven_Market_PowerBi_Project
-
-I am sharing my PowerBI Desktop project, Maven Market Report, which provides insights into the overall performance of Maven Market which is a multi-national grocery chain with locations in Canada, Mexico, and the United States. This is a part of the Microsoft PowerBI Desktop for Business Intelligence (2023) course by Maven Analytics on Udemy. 
 
 
 STEPS INVOLVED:-
