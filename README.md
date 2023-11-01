@@ -1,3 +1,26 @@
+
+
+# Check Video On LinkedIn
+https://www.linkedin.com/feed/update/urn:li:activity:7102151755165032449/
+
+
+.
+
+
+
+# Data Visualization
+
+
+
+![Screenshot (410)](https://github.com/Inderpanda/Maven_Market_PowerBi_Project/assets/138003751/e76d5766-41b1-42bd-b4fd-9d7f78958c46)
+
+![Screenshot (411)](https://github.com/Inderpanda/Maven_Market_PowerBi_Project/assets/138003751/a54e415d-00a7-4fcf-9dba-f2d9fa78f7e5)
+
+![Screenshot (412)](https://github.com/Inderpanda/Maven_Market_PowerBi_Project/assets/138003751/08bb754b-0c25-4fc5-8dc8-e7010e8afa8f)
+
+![Screenshot (414)](https://github.com/Inderpanda/Maven_Market_PowerBi_Project/assets/138003751/e0e72153-c246-4dc8-a1d9-4a64974fe9a2)
+
+
 # Maven_Market_PowerBi_Project
 
 I am sharing my PowerBI Desktop project, Maven Market Report, which provides insights into the overall performance of Maven Market which is a multi-national grocery chain with locations in Canada, Mexico, and the United States. This is a part of the Microsoft PowerBI Desktop for Business Intelligence (2023) course by Maven Analytics on Udemy. 
@@ -49,32 +72,6 @@ In the MODEL view, meticulously organized tables into a coherent data model by e
 ✅ Craig Blackwell has the Highest Revenue by Management Profession
 
 ✅ Choice Bubble Gum - Worst Product in terms of Revenue (154$)
-
-
-.
-
-
-# Check Video On LinkedIn
-https://www.linkedin.com/feed/update/urn:li:activity:7102151755165032449/
-
-
-.
-
-
-
-# Data Visualization
-
-
-
-![Screenshot (410)](https://github.com/Inderpanda/Maven_Market_PowerBi_Project/assets/138003751/e76d5766-41b1-42bd-b4fd-9d7f78958c46)
-
-![Screenshot (411)](https://github.com/Inderpanda/Maven_Market_PowerBi_Project/assets/138003751/a54e415d-00a7-4fcf-9dba-f2d9fa78f7e5)
-
-![Screenshot (412)](https://github.com/Inderpanda/Maven_Market_PowerBi_Project/assets/138003751/08bb754b-0c25-4fc5-8dc8-e7010e8afa8f)
-
-![Screenshot (414)](https://github.com/Inderpanda/Maven_Market_PowerBi_Project/assets/138003751/e0e72153-c246-4dc8-a1d9-4a64974fe9a2)
-
-
 
 
 
